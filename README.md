@@ -66,12 +66,13 @@ available, see the [tags on this
 repository]().
 
 ## Authors
+*please placed your names here*
 
-- **Billie Thompson** - _Provided README Template_ -
-  [PurpleBooth](https://github.com/PurpleBooth)
+- **Rhyn Ogg** - _Provided README Template_ -
+  [Dissurender](https://github.com/Dissurender)
 
 See also the list of
-[contributors](https://github.com/PurpleBooth/a-good-readme-template/contributors)
+[contributors]()
 who participated in this project.
 
 ## License
