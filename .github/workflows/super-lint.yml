@@ -12,5 +12,3 @@ jobs:
 
       - name: Super-Linter
         uses: github/super-linter@v4.9.4
-        env:
-          DEFAULT_BRANCH: main
