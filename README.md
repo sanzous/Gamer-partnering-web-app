@@ -1,6 +1,6 @@
 <a rel="license" href="http://creativecommons.org/licenses/by-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nd/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nd/4.0/">Creative Commons Attribution-NoDerivatives 4.0 International License</a>.
 
-[![Super-Linter](https://github.com/sanzous/Gamer-partnering-web-app/actions/workflows/super-lint.yml/badge.svg)](https://github.com/sanzous/Gamer-partnering-web-app/actions/workflows/super-lint.yml)
+[![Super-Linter](https://github.com/sanzous/Gamer-partnering-web-app/actions/workflows/super-lint.yml/badge.svg)](https://github.com/sanzous/Gamer-partnering-web-app/actions/workflows/super-lint.yml) [![CodeQL](https://github.com/sanzous/Gamer-partnering-web-app/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/sanzous/Gamer-partnering-web-app/actions/workflows/codeql-analysis.yml)
 
 # Project Title
 
@@ -55,7 +55,6 @@ Checks if the best practices and the right coding style has been used.
 
 Add additional notes to deploy this on a live system
 
-
 ## Contributing
 
 Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code
@@ -68,7 +67,8 @@ available, see the [tags on this
 repository]().
 
 ## Authors
-*please placed your names here*
+
+_please placed your names here_
 
 - **Rhyn Ogg** - _Provided README Template_ -
   [Dissurender](https://github.com/Dissurender)
