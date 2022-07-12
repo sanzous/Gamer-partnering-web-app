@@ -1,5 +1,3 @@
-<a rel="license" href="http://creativecommons.org/licenses/by-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nd/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nd/4.0/">Creative Commons Attribution-NoDerivatives 4.0 International License</a>.
-
 [![Super-Linter](https://github.com/sanzous/Gamer-partnering-web-app/actions/workflows/super-lint.yml/badge.svg)](https://github.com/sanzous/Gamer-partnering-web-app/actions/workflows/super-lint.yml) [![CodeQL](https://github.com/sanzous/Gamer-partnering-web-app/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/sanzous/Gamer-partnering-web-app/actions/workflows/codeql-analysis.yml)
 
 # Project Title
@@ -78,6 +76,8 @@ See also the list of
 who participated in this project.
 
 ## License
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nd/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nd/4.0/">Creative Commons Attribution-NoDerivatives 4.0 International License</a>.
 
 This project is licensed under the [CC Attribution-NoDerivatives 4.0 International Public License](LICENSE.md)
 Creative Commons License - see the [LICENSE.md](LICENSE.md) file for
